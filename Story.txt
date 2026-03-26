@@ -8,7 +8,7 @@ You can go left (go to 2) or right (go to 3).
 3. Such a shame! You have encountered a wicked witch! She has 3 potions. These are: blue potion, red potion and green potion.
 You can chose blue, red or green. 
 
-red: 
+6.
 You choose the red potion. It's glowing omniously. Drinking it, you feel yourself becoming smaller and smaller and bam! 
-You suddenly have four feet and bright red fur! You try to talk but you can't. The witch laughs evilly and in a puff of smoke and wind dissapears.
-You look around and see nothing new. Where do you go next? 
+You suddenly have four feet and bright red fur! You try to talk but you can't. The witch laughs evily and in a puff of smoke and wind dissapears.
+You look around and see nothing new. Where do you go next? Through off the road towards the forest or down the road towards the village?
