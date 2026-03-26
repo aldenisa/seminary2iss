@@ -1,5 +1,3 @@
 Written by: Denisa Aloman, Emanuel Berintan, Rebeca Ana, Bodro, Antici Amalia, Amoraritei Alexandra
 
-rb1. As you are walking, you are still thinking about what you encountered earlier... maybe you should have stopped. Now it is too late.
-Suddenly, you step on something. You look down and see bloddied tissues again. Now you feel like you have to investigate... but it may be dangereous. You can either look at (go to rb2) or call the authorites (go to rb1_1).
-
+rb2_1: You continue your walk. You pocket is now covered in a bloody red (no wonder why). The sun appears and your path is over. You see your home and you are relieved. You enter your house happy that everything is over and you can finally relax. But the spirit is in your pocket... Congrats! You are alive! But at what cost...?
