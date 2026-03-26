@@ -1,3 +1,3 @@
 Written by: Denisa Aloman, Emanuel Berintan, Rebeca Ana, Bodro, Antici Amalia, Amoraritei Alexandra
 
-3. After walking for what felt like hours, given the injured knee, you find a strange chunk of what looked like meat, wrapped in bloodied tissues. It seemed like it was reacting to your presence, pulsating wearily. You can choose to walk over it and blame it on the trauma(go to rb1) or investigate it further(rb2).
+rb2_1: You continue your walk. You pocket is now covered in a bloody red (no wonder why). The sun appears and your path is over. You see your home and you are relieved. You enter your house happy that everything is over and you can finally relax. But the spirit is in your pocket... Congrats! You are alive! But at what cost...?
