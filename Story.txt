@@ -1,6 +1,6 @@
 Written by: Denisa Aloman, Emanuel Berintan, Rebeca Ana, Bodro, Antici Amalia
 Dangerous story (reading at your own risk)
 
-After returning from a failed crusade, you want to go home but you encounter a fork in the road.
-You can go left or right.
+1. After returning from a failed crusade, you want to go home but you encounter a fork in the road.
+You can go left (go to 2) or right (go to 3).
 
