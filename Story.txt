@@ -1,4 +1,3 @@
 Written by: Denisa Aloman, Emanuel Berintan, Rebeca Ana, Bodro, Antici Amalia, Amoraritei Alexandra
 
-rb2. As you pick it up, you find it is strangely warm, felling its movements in your palm, against better judgement you hurry to unfasten the wrappings around it, your mind strangely coerced by a soothing hum coming from apparently nowhere. As you do, the gooey meat piece forms a slit, moving in grotesque ways as to still show life even in such a state. The slit moves, making way for a new eye to open, searching for your gaze. Choose to avoid it and look away(rb2_1) or match its stare (rb2_2). 
-
+rb1_1. As you are shouting, someone with a neon green vest comes to you. He does not let you defend yourself and attacks you while calling you a bloody criminal. You died.
