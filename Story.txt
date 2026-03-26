@@ -8,3 +8,5 @@ You can go left (go to 2) or right (go to 3).
 3. Such a shame! You have encountered a wicked witch! She has 3 potions. These are: blue potion, red potion and green potion.
 You can chose blue, red or green. 
 
+Blue: What happens? You have transformed into a little mouse! You start running as fast as you can from the witch. But you hear a noise....MEOW! NOOO!!! A CAT!!!!
+You have to options: fight or run. What do you chose? Go to Fight or Run. 
