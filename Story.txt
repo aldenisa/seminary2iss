@@ -13,5 +13,7 @@ Option: Go north (go to 7), Go south (go to 8).
 
 7. You go north and reach your home safely. You open the front door and enter your little house. On the bed, a silvery potion sits firmly. You miss being a human. Being an eagle is nice, but you feel a void in your heart. Without thinking, you drink the potion and you turn into a human again. And you live happily ever after. :) -Happy ending
 
+8. You go south. And south. And more south. You lose all sense of direction. The sun is getting stronger and you can feel your wings weaken. You look majestic, but you're not fit to be an eagle yet. You were thrown in iron armor, without training. You desperately try to stay afloat, but you can't. As a last resort, you try to land, but you miscalculate. You hit a rock at full speed. You die! - Bad ending.
+
 
 
