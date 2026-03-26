@@ -1,15 +1,3 @@
 Written by: Denisa Aloman, Emanuel Berintan, Rebeca Ana, Bodro, Antici Amalia, Amoraritei Alexandra
 
-Dangerous story (reading at your own risk)
-
-1. After returning from a failed crusade, you want to go home but you encounter a fork in the road.
-You can go left (go to 2) or right (go to 3).
-
-3. Such a shame! You have encountered a wicked witch! She has 3 potions. These are: blue potion, red potion and green potion.
-You can chose blue, red or green.
-
-6. Poof! You suddenly turn into a majestic eagle. Your beak is sharp as obsidian, and your claws can tear through the fabric of the universe. You burst, flying into the sky at inimaginable speed. The earth beneath you looks like a toy, you can go everywhere you want. You still want to go home though, but you don't know where it is anymore. The sky confuses you. You decide you should stick to a direction.
-Option: Go north (go to 7), Go south (go to 8).
-
-
-
+rb2_1: You continue your walk. You pocket is now covered in a bloody red (no wonder why). The sun appears and your path is over. You see your home and you are relieved. You enter your house happy that everything is over and you can finally relax. But the spirit is in your pocket... Congrats! You are alive! But at what cost...?
