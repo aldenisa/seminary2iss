@@ -15,3 +15,5 @@ You look around and see nothing new. Where do you go next? Through off the road 
 
 You go off the road and soon reach the lush forest. You are worried you will never become human again. However, a more pressing matter arises soon. You start going hungry and you search for food. 
 You soon see a bush of red berries. Do you eat them?
+
+do not eat: You choose not to eat them as they seem poisonous. You become famished and have no energy. Night falls. You hear a howl but are too hungry to hide. The wolf finds you. You think to yourself that you wouldn't have lived long as a fox either way, as the pain numbs and you can't feel your blood dripping and your flesh being pierced by sharp fangs. Everything becomes black and you never wake up again.
