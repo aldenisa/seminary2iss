@@ -11,5 +11,7 @@ You can chose blue, red or green.
 6. Poof! You suddenly turn into a majestic eagle. Your beak is sharp as obsidian, and your claws can tear through the fabric of the universe. You burst, flying into the sky at inimaginable speed. The earth beneath you looks like a toy, you can go everywhere you want. You still want to go home though, but you don't know where it is anymore. The sky confuses you. You decide you should stick to a direction.
 Option: Go north (go to 7), Go south (go to 8).
 
+7. You go north and reach your home safely. You open the front door and enter your little house. On the bed, a silvery potion sits firmly. You miss being a human. Being an eagle is nice, but you feel a void in your heart. Without thinking, you drink the potion and you turn into a human again. And you live happily ever after. :) -Happy ending
+
 
 
