@@ -6,5 +6,10 @@ Dangerous story (reading at your own risk)
 You can go left (go to 2) or right (go to 3).
 
 3. Such a shame! You have encountered a wicked witch! She has 3 potions. These are: blue potion, red potion and green potion.
-You can chose blue, red or green. 
+You can chose blue, red or green.
+
+6. Poof! You suddenly turn into a majestic eagle. Your beak is sharp as obsidian, and your claws can tear through the fabric of the universe. You burst, flying into the sky at inimaginable speed. The earth beneath you looks like a toy, you can go everywhere you want. You still want to go home though, but you don't know where it is anymore. The sky confuses you. You decide you should stick to a direction.
+Option: Go north (go to 7), Go south (go to 8).
+
+
 
