@@ -1,5 +1,4 @@
 Written by: Denisa Aloman, Emanuel Berintan, Rebeca Ana, Bodro, Antici Amalia, Amoraritei Alexandra
 
-rb1. As you are walking, you are still thinking about what you encountered earlier... maybe you should have stopped. Now it is too late.
-Suddenly, you step on something. You look down and see bloddied tissues again. Now you feel like you have to investigate... but it may be dangereous. You can either look at (go to rb2) or call the authorites (go to rb1_1).
+rb2. As you pick it up, you find it is strangely warm, felling its movements in your palm, against better judgement you hurry to unfasten the wrappings around it, your mind strangely coerced by a soothing hum coming from apparently nowhere. As you do, the gooey meat piece forms a slit, moving in grotesque ways as to still show life even in such a state. The slit moves, making way for a new eye to open, searching for your gaze. Choose to avoid it and look away(rb2_1) or match its stare (rb2_2). 
 
