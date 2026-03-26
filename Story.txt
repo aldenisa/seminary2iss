@@ -15,3 +15,6 @@ You look around and see nothing new. Where do you go next? Through off the road 
 
 You go off the road and soon reach the lush forest. You are worried you will never become human again. However, a more pressing matter arises soon. You start going hungry and you search for food. 
 You soon see a bush of red berries. Do you eat them?
+
+eat berries: You choose to eat the berries. They are sour but it's all you have. Night falls and you hear a howl. You have enough energy to find a place to hide in a small burrow under a tree. Dawn comes and you are terrified. 
+And so you days pass and you are becoming more and more feral. You start forgetting who you are and you lose your sense of self... But you can't seem to care... Soon you fully become a fox. No longer any human thoughts.
