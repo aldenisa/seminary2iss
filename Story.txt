@@ -1,3 +1,5 @@
 Written by: Denisa Aloman, Emanuel Berintan, Rebeca Ana, Bodro, Antici Amalia, Amoraritei Alexandra
 
-3. After walking for what felt like hours, given the injured knee, you find a strange chunk of what looked like meat, wrapped in bloodied tissues. It seemed like it was reacting to your presence, pulsating wearily. You can choose to walk over it and blame it on the trauma(go to rb1) or investigate it further(rb2).
+rb1. As you are walking, you are still thinking about what you encountered earlier... maybe you should have stopped. Now it is too late.
+Suddenly, you step on something. You look down and see bloddied tissues again. Now you feel like you have to investigate... but it may be dangereous. You can either look at (go to rb2) or call the authorites (go to rb1_1).
+
